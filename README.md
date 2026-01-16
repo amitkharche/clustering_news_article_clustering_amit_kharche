@@ -167,8 +167,8 @@ streamlit
 
 If you have questions or want to collaborate, feel free to connect:
 
-* [LinkedIn – Amit Kharche](https://www.linkedin.com/in/amitkharche)
-* [Medium – @amitkharche14](https://medium.com/@amitkharche)
-* [GitHub – @amitkharche](https://github.com/amitkharche)
+* [LinkedIn](https://www.linkedin.com/in/amitkharche)
+* [Medium](https://medium.com/@amitkharche)
+* [GitHub](https://github.com/amitkharche)
 
 ---
